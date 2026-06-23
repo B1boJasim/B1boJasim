@@ -1,5 +1,5 @@
 # 💫 About Me:
-# [![💫 About Me](https://discordapp.com/users/901436071206850570) 
+# [![💫 About Me](https://img.shields.io/badge/About%20Me-💫-blue)](https://github.com/deinname)
 👋 Hi there, I'm Bibo! <br>👑 Owner of Hydra Cheats
 
 
