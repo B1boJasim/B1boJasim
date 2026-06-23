@@ -1,5 +1,5 @@
 # 💫 About Me:
-# [💫 About Me](https://bibojasim.com)
+<a href="https://bibojasim.com" style="color:white;">💫 About Me</a>
 👋 Hi there, I'm Bibo! <br>👑 Owner of Hydra Cheats
 
 
